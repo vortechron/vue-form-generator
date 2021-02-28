@@ -1,5 +1,5 @@
 {
-  "name": "vue-form-generator",
+  "name": "@vortechron/v-form-generator",
   "version": "2.3.4",
   "description": "A schema-based form generator component for Vue.js",
   "homepage": "https://github.com/vue-generators/vue-form-generator/",
